@@ -1,4 +1,5 @@
-# akirabot-basees un repositorio ✨ especial ✨ porque README.md(este archivo) aparece en tu perfil de GitHub.
+# akirabot-base
+es un repositorio ✨ especial ✨ porque README.md(este archivo) aparece en tu perfil de GitHub.
 
 Aquí tienes algunas ideas para empezar:
 🔭 Actualmente estoy trabajando en...
